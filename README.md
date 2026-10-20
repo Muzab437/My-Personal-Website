@@ -7,7 +7,7 @@ Website ini merupakan proyek web pribadi yang dikembangkan menggunakan **HTML, C
 ---
 
 ### ⏱️ Waktu Pengerjaan
-- **Durasi Pengerjaan:** ± 1–2 Minggu (Pengembangan bertahap mulai dari perancangan antarmuka, penambahan animasi CSS, logika interaktif JavaScript, hingga konfigurasi server).
+- **Durasi Pengerjaan:** ± 3 Minggu (Pengembangan bertahap mulai dari perancangan antarmuka, penambahan animasi CSS, logika interaktif JavaScript, hingga konfigurasi server).
 
 ---
 
